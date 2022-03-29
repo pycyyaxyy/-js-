@@ -1,3 +1,4 @@
+//稳定的排序算法
 const bubbleSort = (arr) => {
   const n = arr.length;
 
